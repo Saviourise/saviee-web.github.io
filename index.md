@@ -24,7 +24,7 @@ PLEASE UPVOTE THE CODE AND COMMENT WHAT YOU THINK
 
 
 
-<!DOCTYPE html>
+
 <html>
     <head>
         <link href="https://fonts.googleapis.com/css?family=Oswald|Raleway&display=swap" rel="stylesheet">
@@ -398,4 +398,5 @@ PLEASE UPVOTE THE CODE AND COMMENT WHAT YOU THINK
     </div>
     
     </body>
+
 </html>
