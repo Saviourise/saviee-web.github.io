@@ -1,19 +1,4 @@
-<!------------------------------------
 
-
-
-CREATED BY S∆VI££😎
-
-
-
-SORRY MY CODE IS A MESS, I USED A DIFFERENT CODE EDITOR
-
-
-
-PLEASE UPVOTE THE CODE AND COMMENT WHAT YOU THINK
-
-
---------------------------------------->
 
 
 
